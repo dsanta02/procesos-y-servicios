@@ -1,0 +1,10 @@
+Dilan 8,1
+Pepe 2,3
+Laura 6,7
+Carlos 9,4
+Marta 5,2
+Jorge 3,8
+Lucía 7,6
+Álvaro 4,1
+Sara 8,9
+David 1,7
