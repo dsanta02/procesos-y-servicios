@@ -1,0 +1,7 @@
+Programación de Servicios y Procesos: 8
+Desarrollo de Interfaces: 6
+Acceso a Datos: 9
+Sistemas de Gestión Empresarial: 7
+Programación Multimedia y Dispositivos Móviles: 5
+Inglés Profesional: 9
+Proyecto Intermodular de Desarrollo de Aplicaciones Multiplataforma: 8

@@ -13,7 +13,8 @@ public class NotasAlumnos {
 
     public static void main(String[] args) throws IOException {
 
-        Path fichero = Path.of("D:\\Users\\Alumno Mañana\\Documents\\NetBeansProjects\\notasAlumnos\\src\\notas.txt");
+        Path fichero = Path.of("D:\\Users\\Alumno Mañana\\Desktop\\PROGRAMACION PROCESOS Y SERVICIOS\\notasAlumnos\\src\\notas.txt");
+        Path bueno = fichero.toAbsolutePath();
 
         List<String> datos = Files.readAllLines(fichero);
 
